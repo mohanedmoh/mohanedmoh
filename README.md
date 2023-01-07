@@ -4,7 +4,7 @@
 
 
 
-:wave: Hello! Dedicated Software Developer Experienced and interest in Android /Web Developer,offering more than 4 years of expertise on Mobile Application developing, Web Systems/API's and Desktop Applications. Deadline-driven professional offering wealth of expertise in building apps Focused and driven with strengths in coding and bug resolution. Experience delivering top-notch. 
+:wave: I am a highly skilled software developer with a diverse set of experiences and skills. I have worked on a variety of projects involving web and mobile development, database management, and system integration, using languages such as PHP, Java, and VueJS. I am also familiar with DevOps practices and have experience with cloud computing platforms like AWS and Azure. I hold an MSc in Computer Science and am currently pursuing a PhD in the same field. In my previous roles, I have demonstrated my ability to be detail-oriented, creative, and a strong problem-solver. I am seeking an advanced opportunity in a leading company where I can continue to grow and develop my skills as a software developer. 
 ## 💻 My Tech Stack
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
