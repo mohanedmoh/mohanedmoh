@@ -21,3 +21,4 @@ In review:
 - Earlier work: Android, Laravel and Vue.js applications
 
 [LinkedIn](https://www.linkedin.com/in/mohaned-hassan-60a483127)
+[Medium](https://medium.com/@mohanedmoh)
