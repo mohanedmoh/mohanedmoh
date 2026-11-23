@@ -4,7 +4,7 @@ Senior Software & Web Developer in the UK. I build tools for working with Earth 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohaned-hassan-60a483127/)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@mohanedmoh)
-
+[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/treebind)](https://artifacthub.io/packages/search?repo=treebind)
 ## Treebind
 
 [**Treebind**](https://github.com/mohanedmoh/treebind) keeps a Git repository and an application's files in sync, in both directions, through a shared Kubernetes volume. You declare a `Treebind` resource that names the repository, an existing PVC and the sync policy. The operator runs a sync agent that pulls remote changes, commits the application's own edits and can push them back. The application can be any program that reads and writes those files: a dashboard tool, a workflow engine, a website.
